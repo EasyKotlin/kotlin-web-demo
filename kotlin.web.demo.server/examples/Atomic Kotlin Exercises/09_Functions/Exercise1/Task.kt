@@ -1,0 +1,1 @@
+fun getSquare(i: Int) = <taskWindow>TODO()</taskWindow>

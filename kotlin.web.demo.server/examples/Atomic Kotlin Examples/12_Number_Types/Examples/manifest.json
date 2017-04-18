@@ -1,0 +1,16 @@
+{
+  "name" : "Examples",
+  "files" : [ {
+    "filename" : "BMI.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "IntegerMath.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "IntegerOverflow.kt",
+    "modifiable" : "true"
+  } ],
+  "args" : "",
+  "searchForMain": false,
+  "confType" : "java"
+}

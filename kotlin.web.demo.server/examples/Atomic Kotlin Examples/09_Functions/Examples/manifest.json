@@ -1,0 +1,13 @@
+{
+  "name" : "Examples",
+  "files" : [ {
+    "filename" : "MultiplyByTwo.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "MultiplyByThree.kt",
+    "modifiable" : "true"
+  } ],
+  "args" : "",
+  "searchForMain": false,
+  "confType" : "java"
+}

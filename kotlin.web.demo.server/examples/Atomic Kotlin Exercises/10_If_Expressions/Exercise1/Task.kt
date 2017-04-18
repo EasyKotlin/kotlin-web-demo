@@ -1,0 +1,1 @@
+fun checkSign(number: Int) = <taskWindow>TODO()</taskWindow>

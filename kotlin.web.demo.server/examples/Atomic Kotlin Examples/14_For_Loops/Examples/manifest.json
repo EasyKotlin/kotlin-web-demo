@@ -1,0 +1,22 @@
+{
+  "name" : "Examples",
+  "files" : [ {
+    "filename" : "RepeatThreeTimes.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "SimpleSum.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "IterateOverString1.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "IterateOverString2.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "IterateOverString3.kt",
+    "modifiable" : "true"
+  } ],
+  "args" : "",
+  "searchForMain": false,
+  "confType" : "java"
+}

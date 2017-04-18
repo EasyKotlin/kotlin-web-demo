@@ -1,0 +1,1 @@
+fun isLowerCase(ch: Char): Boolean = ch >= 'a' && ch <= 'z'

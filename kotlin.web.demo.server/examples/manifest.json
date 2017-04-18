@@ -2,7 +2,9 @@
   "folders": [
     "Examples",
     "Kotlin Koans",
-    "Kotlin in Action"
+    "Kotlin in Action",
+    "Atomic Kotlin Examples",
+    "Atomic Kotlin Exercises"
   ]
 }
 

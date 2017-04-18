@@ -1,0 +1,1 @@
+fun duplicate(s: String) = s + s

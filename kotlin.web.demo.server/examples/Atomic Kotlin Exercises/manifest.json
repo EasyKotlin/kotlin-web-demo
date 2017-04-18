@@ -1,0 +1,38 @@
+{
+  "taskFolder": true,
+  "levels": [
+    {
+      "projectsNeeded": 30,
+      "color": "#409BCB"
+    },
+    {
+      "projectsNeeded": 40,
+      "color": "#6A855B"
+    },
+    {
+      "projectsNeeded": 60,
+      "color": "#FDC474"
+    },
+    {
+      "projectsNeeded": 80,
+      "color": "#C9783A"
+    },
+    {
+      "projectsNeeded": 100,
+      "color": "#9976A9"
+    }
+  ],
+  "folders": [
+    "06_Hello_World",
+    "07_Variables",
+    "08_Data_Types",
+    "09_Functions",
+    "10_If_Expressions",
+    "11_String_Templates",
+    "12_Number_Types",
+    "13_Booleans",
+    "14_For_Loops",
+    "15_Ranges",
+    "16_Expressions_And_Statements"
+  ]
+}

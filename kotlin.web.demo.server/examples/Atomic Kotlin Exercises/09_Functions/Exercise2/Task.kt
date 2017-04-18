@@ -1,0 +1,1 @@
+fun getSum(a: Double, b: Double, c: Double) = <taskWindow>TODO()</taskWindow>

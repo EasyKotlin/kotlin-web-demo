@@ -1,0 +1,25 @@
+{
+  "name" : "Examples",
+  "files" : [ {
+    "filename" : "If1.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "If2.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "If3.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "If4.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "If5.kt",
+    "modifiable" : "true"
+  }, {
+    "filename" : "If6.kt",
+    "modifiable" : "true"
+  } ],
+  "args" : "",
+  "searchForMain": false,
+  "confType" : "java"
+}

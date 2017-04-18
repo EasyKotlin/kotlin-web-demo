@@ -1,0 +1,10 @@
+{
+  "name" : "Examples",
+  "files" : [ {
+    "filename" : "HelloWorld.kt",
+    "modifiable" : "true"
+  } ],
+  "args" : "",
+  "searchForMain": false,
+  "confType" : "java"
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "Examples",
+  "files" : [ {
+    "filename" : "Types.kt",
+    "modifiable" : "true"
+  } ],
+  "args" : "",
+  "searchForMain": false,
+  "confType" : "java"
+}

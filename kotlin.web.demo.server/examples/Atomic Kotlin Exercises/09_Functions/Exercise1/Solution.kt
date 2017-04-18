@@ -1,0 +1,1 @@
+fun getSquare(i: Int) = i * i
